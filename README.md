@@ -1,5 +1,7 @@
 # E-Mart: High-Performance E-Commerce Frontend
 
+🌍 **[View Live Demo on Vercel](https://high-performance-e-commerce-fronten.vercel.app)**
+
 E-Mart is a meticulously crafted, performance-driven **frontend e-commerce application** built with React. It simulates a fully operational online retail environment, prioritizing an ultra-fast, seamless user experience from initial product discovery through the final checkout staging process without relying on a monolithic backend. 
 
 ---
